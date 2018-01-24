@@ -1,6 +1,6 @@
 ## 4.2 DISPOSITIO {#4-2-dispositio}
 
-Selecciona, ordena y deja espacio para la repetición.
+### Selecciona, ordena y deja espacio para la repetición.
 
 La organización juega un papel clave para lograr la claridad y la coherencia necesaria para la eficacia de una comunicación.
 
