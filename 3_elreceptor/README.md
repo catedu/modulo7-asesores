@@ -1,6 +1,6 @@
 # 3 EL RECEPTOR {#3-el-receptor}
 
-![](images/image10.jpg)
+![](/images/image10.jpg)
 
 Con esta cita comienza el capítulo 3 del libro El Arte de Presentar de G. Álvarez Marañón (2012) y no hay metáfora mejor para esta idea ya que  la eficacia comunicativa depende de cómo el emisor sea capaz de:
 
