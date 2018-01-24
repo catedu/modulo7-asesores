@@ -14,5 +14,6 @@ La claridad, el orden, la precisión lingüística y el ornamento vendrán de la
 
 La elocución también incluye el estudio del sonido y el ritmo del texto que se está trabajando. Hay que tener presente el efecto acústico de las palabras (cacofonías, aliteraciones...), el ritmo fónico de las oraciones y la sintaxis utilizada. Debemos asegurar que nuestro texto oral es fácil y agradable para la audición.
 
-    “La buena retórica emplea los elementos constructivos de la poesía, pero no pone ladrillos con la misma regularidad” 
+    “La buena retórica emplea los elementos constructivos de la poesía, 
+    pero no pone ladrillos con la misma regularidad” 
     Leith, S. (2011).

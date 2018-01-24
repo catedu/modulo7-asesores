@@ -16,7 +16,8 @@ Acompañaremos los contenidos con charlas disponibles en la red que te servirán
 
 Empezamos con Fidel Delgado. En su conferencia “Cómo instalarse la app del humor” (del minuto 11 al minuto 13) desarrolla su idea de “buffet libre de aprendizaje”  que se asemeja bastante a nuestra propuesta: sírvete lo que creas que te viene bien y ejercítalo. ¡Buen provecho!
 
-{% video %}https://vimeo.com/208641993{% endvideo %}
+<iframe src="https://player.vimeo.com/video/208641993?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<p><a href="https://vimeo.com/208641993">C&oacute;mo instalarse la app del sentido del humor</a> from <a href="https://vimeo.com/ibercajaaulaenred">Ibercaja Aula en Red</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 ![](/images/image5.jpg)
 

@@ -17,7 +17,7 @@ Debemos comunicar lo mejor que podamos, pero no debemos entender que solo pueden
 
 Constanza Obaiz “Discapacidad, poder distinto”
 
-https://www.youtube.com/watch?v=4NuF4HD94Qs
+{% youtube %}https://www.youtube.com/watch?v=4NuF4HD94Qs{% endyoutube %}
 
 ### Ciertas vocalizaciones {#ciertas-vocalizaciones}
 
@@ -39,6 +39,6 @@ El uso estratégico de la voz mantiene viva la atención del auditorio y evita l
 
 En ocasiones, los medios técnicos no acompañan: ser capaz de manejar la voz a un volumen adecuado para un auditorio de unas setenta personas (apoyándote en técnicas de impostación de la voz y sin sufrir fatiga vocal) es un as en la manga al que no deberías renunciar.
 
-![](images/image9.jpg)Para ampliar la información teórica y práctica:
+Para ampliar la información teórica y práctica:
 
 [https://www.laoratoria.com/tecnicas-de-la-oratoria-la-voz/](https://www.google.com/url?q=https://www.laoratoria.com/tecnicas-de-la-oratoria-la-voz/&sa=D&ust=1516789738047000&usg=AFQjCNG0vzwU5DVPYuAXgZSPi3FEaFpHoA)

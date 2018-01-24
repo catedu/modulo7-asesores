@@ -1,5 +1,4 @@
-## 4.2 DISPOSITIO {#4-2-dispositio}
-
+## 4.2 DISPOSITIO
 ### Selecciona, ordena y deja espacio para la repetición.
 
 **La organización juega un papel clave para lograr la claridad y la coherencia necesaria para la eficacia de una comunicación.**
@@ -26,7 +25,7 @@ Sin embargo, retomando la idea de Quintiliano, también dice “el atractivo de 
 
 Tomaremos aquí la estructura más sencilla posible: inicio, desarrollo y final.
 
-### 4.2.1 INICIO {#4-2-1-inicio}
+### 4.2.1 INICIO 
 
 Las funciones de la introducción son:
 
@@ -42,21 +41,26 @@ En esta fase se produce la conexión humana, es el momento en el que ethos debe 
 
 Os invitamos  a que analicéis la fase inicial de cuatro conferenciantes:
 
-María Acaso (1h:03min - 1h:06min) y César Bona (1h:51min - 2h: 01 min)
+María Acaso (1h:03min - 1h:06min) y 
 
-https://www.youtube.com/watch?v=yDbhg-uj23o&t=6073s
+{% youtube %}https://www.youtube.com/watch?v=yDbhg-uj23o&feature=youtu.be&t=1h2m54s{% endyoutube %}
+
+César Bona (1h:51min - 2h: 01 min)
+
+{% youtube %}https://www.youtube.com/watch?v=yDbhg-uj23o&feature=youtu.be&t=1h50m57s{% endyoutube %}
 
 David Cuartielles (1h:14 min -1h:17m)
 
-https://www.youtube.com/watch?v=e4utOVaKVhk&t=7456s
+{% youtube %}https://www.youtube.com/watch?v=e4utOVaKVhk&feature=youtu.be&t=1h13m49s{% endyoutube %}
 
 Luz Rello (11 min:50 s - 20 min)
 
-https://vimeo.com/204351600
+<iframe src="https://player.vimeo.com/video/204351600?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<p><a href="https://vimeo.com/204351600">Aprender con dislexia es posible. Metodolog&iacute;as innovadoras</a> from <a href="https://vimeo.com/ibercajaaulaenred">Ibercaja Aula en Red</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 Pablo Albo (0 min -2min 39 seg)
 
-https://www.youtube.com/watch?v=9TaB4B_n5mE
+{% youtube %}https://www.youtube.com/watch?v=9TaB4B_n5mE{% endyoutube %}
 
 ¿Has reconocido algunos de los elementos vistos en este módulo? ¿qué charla quieres seguir escuchando? ¿por qué? ¿qué cualidades del orador te han enganchado? ¿qué contenidos han despertado tu curiosidad?
 
@@ -98,7 +102,7 @@ Los manuales de oratoria clásicos y modernos no contemplan el caso particular d
 
     La hoja de firmas. @art_trazos
 
-### 4.2.4 PELIGROS EN ESTA FASE {#4-2-4-peligros-en-esta-fase}
+### 4.2.4 PELIGROS EN ESTA FASE 
 
 ![](/images/image8.png)
 

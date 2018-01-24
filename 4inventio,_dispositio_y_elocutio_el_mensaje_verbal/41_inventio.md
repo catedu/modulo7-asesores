@@ -18,7 +18,7 @@ En el siguiente vídeo de Connor Neil publicado por TED-Ed (2013)  se expone un 
 
 Si, como hemos dicho anteriormente, la responsabilidad de que el mensaje llegue al receptor es del emisor (y no se debe culpabilizar al receptor), esta situación se explicaría tomando en consideración a los “tres mosqueteros” de la retórica junto al contexto.
 
-{% video %}https://www.youtube.com/watch?v=O2dEuMFR8kw{% endvideo %}
+{% youtube %}https://www.youtube.com/watch?v=O2dEuMFR8kw{% endyoutube %}
 
 Ethos y pathos nos devuelven, por tanto, al tema  ya tratado: la necesaria conexión con el auditorio.  Ahora nos centraremos en el nivel logos, en la fase de documentación, de dominio del tema y elaboración de nuestras propias ideas sobre él.
 

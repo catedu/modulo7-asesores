@@ -6,7 +6,8 @@ El  **consejo** hasta ahora era “sé tu mismo”, pero llegados a este punto e
 
 Para vivir la experiencia de una conferencia sin conferenciante te recomendamos la siguiente charla (del minuto 7 al minuto 10)
 
-https://vimeo.com/211258545
+<iframe src="https://player.vimeo.com/video/211258545?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<p><a href="https://vimeo.com/211258545">El poder de la mirada y de la imitaci&oacute;n en el aprendizaje integral</a> from <a href="https://vimeo.com/ibercajaaulaenred">Ibercaja Aula en Red</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 Inquietante ¿no te parece?
 

@@ -15,6 +15,10 @@ Tanto si has optado por escribir el texto palabra por palabra como si tienes un 
 
 Mnemósine, en la mitología griega, es la personificación de la memoria y madre de las musas.  Algo tan místico no lo puedes delegar en un powerpoint o unas tarjetas de cartón. La memorización es el trabajo que debes realizar por adelantado antes del momento vivo de la comunicación. Ganarás desenvoltura, seguridad y flexibilidad.
 
+![](/images/Gabriel_Dante_Rosetti,_Mnemosyne.jpg)
+    Mnemosyne (Gabriel Dante Rosetti)
+
+    
 No se trata de aprender una cadena de palabras (si olvidas una, el tren se para) sino de poder recrear el texto en tu mente. Lo que se buscamos en esta etapa es el trabajo de:
 
 - Las palabras clave
@@ -37,4 +41,4 @@ Dejamos aquí un vídeo en el que te invitamos a que admires el poder que da la 
 
 (No es necesario que lo veas entero para apreciar el trabajo de la memoria)
 
-https://www.youtube.com/watch?v=3mp0bf1RRV4
+{% youtube %}https://www.youtube.com/watch?v=3mp0bf1RRV4{% endyoutube %}

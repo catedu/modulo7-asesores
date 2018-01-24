@@ -24,7 +24,7 @@ Debemos prestar atención a las **reacciones del auditorio** desde el inicio has
 
 Así soluciona Angie Rosales el cansancio que detecta en su auditorio tras una jornada de charlas TEDx (0 min 10 seg ) arriesgado, ovacionado y, como se verá,  en el desarrollo de la charla, en total conexión con la personalidad de la oradora.
 
-{% video %}https://www.youtube.com/watch?v=JOvMr_OxtjA{% endvideo %}
+{% youtube %}https://www.youtube.com/watch?v=JOvMr_OxtjA{% endyoutube %}
 
 Escuchar forma parte del saber hablar, hay que comprobar que el interés se mantiene y que se  generara un ambiente de mutua empatía.
 

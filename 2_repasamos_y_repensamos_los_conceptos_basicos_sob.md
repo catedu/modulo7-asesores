@@ -18,13 +18,13 @@ C. Anderson (2016) en su libro Charlas Ted utiliza la charla de F. Gilbert “La
 *   Usar metáforas.
 *   Usar ejemplos.
 
-{% video %}https://www.youtube.com/watch?v=PgJfz5dRls8{% endvideo %}
+{% youtube %}https://www.youtube.com/watch?v=PgJfz5dRls8{% endyoutube %}
 
 *   **Función expresiva (o emotiva):** manifiesta emociones, sentimientos, sensaciones. Como ya sabemos, siempre va acompañada del lenguaje no verbal y éste será el encargado de dar las claves sobre su veracidad al receptor. Vive las emociones que quieras hacer vivir a tu audiencia. Pon las neuronas espejo de tu audiencia a trabajar.
 
-{% video %}https://www.youtube.com/watch?v=XOiP2KJQXgo{% endvideo %}
+{% youtube %}https://www.youtube.com/watch?v=XOiP2KJQXgo{% endyoutube %}
 
-{% video %}https://www.youtube.com/watch?v=Ld5ERZKk-MQ{% endvideo %}
+{% youtube %}https://www.youtube.com/watch?v=Ld5ERZKk-MQ{% endyoutube %}
 
 *   **Función apelativa:** consiste en llamar la atención del otro e influir en su opinión o generar un cambio. En nuestro caso, solicitar participación durante el acto comunicativo, llamar la atención,  obtener una actitud de respeto e interés hacia nuestro mensaje y una disposición del público a “llevarse” nuestro mensaje en forma de idea, de información aplicable en el aula, de perspectiva...
 
