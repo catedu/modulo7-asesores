@@ -16,8 +16,7 @@ Acompañaremos los contenidos con charlas disponibles en la red que te servirán
 
 Empezamos con Fidel Delgado. En su conferencia “Cómo instalarse la app del humor” (del minuto 11 al minuto 13) desarrolla su idea de “buffet libre de aprendizaje”  que se asemeja bastante a nuestra propuesta: sírvete lo que creas que te viene bien y ejercítalo. ¡Buen provecho!
 
-
-https://vimeo.com/208641993
+{% video %}https://vimeo.com/208641993{% endvideo %}
 
 ![](/images/image5.jpg)
 

@@ -1,6 +1,6 @@
-## TRES MOMENTOS PARA TENER EN CUENTA AL RECEPTOR {#tres-momentos-para-tener-en-cuenta-al-receptor}
+## TRES MOMENTOS PARA TENER EN CUENTA AL RECEPTOR 
 
-### 1 Antes de la charla {#antes-de-la-charla}
+### 1 Antes de la charla 
 
 Debemos conocer las características del auditorio, lo que G. Álvarez (2012) denomina el “**ADN” de la audiencia** (actitudes, demografía y necesidades) para poder adaptar a ellas tanto el contenido como la forma de nuestro mensaje:
 
@@ -24,7 +24,7 @@ Debemos prestar atención a las **reacciones del auditorio** desde el inicio has
 
 Así soluciona Angie Rosales el cansancio que detecta en su auditorio tras una jornada de charlas TEDx (0 min 10 seg ) arriesgado, ovacionado y, como se verá,  en el desarrollo de la charla, en total conexión con la personalidad de la oradora.
 
-https://www.youtube.com/watch?v=JOvMr_OxtjA
+{% video %}https://www.youtube.com/watch?v=JOvMr_OxtjA{% endvideo %}
 
 Escuchar forma parte del saber hablar, hay que comprobar que el interés se mantiene y que se  generara un ambiente de mutua empatía.
 

@@ -1,4 +1,4 @@
-# 2 REPASAMOS Y REPENSAMOS LOS CONCEPTOS BÁSICOS SOBRE LENGUAJE Y COMUNICACIÓN {#2-repasamos-y-repensamos-los-conceptos-b-sicos-sobre-lenguaje-y-comunicaci-n}
+# 2 REPASAMOS Y REPENSAMOS LOS CONCEPTOS BÁSICOS SOBRE LENGUAJE Y COMUNICACIÓN 
 
 En El arte de hablar (2008) J.A. Hernández y M.C. García afirman que el ser humano  y la vida social son lenguaje y por tanto, éste es el principal oficio de la mayoría de las profesiones: científicos, juristas, docentes, médicos, publicistas… todos estos profesionales son especialistas en la palabra con diferentes fines.
 
@@ -18,13 +18,13 @@ C. Anderson (2016) en su libro Charlas Ted utiliza la charla de F. Gilbert “La
 *   Usar metáforas.
 *   Usar ejemplos.
 
-https://www.youtube.com/watch?v=PgJfz5dRls8
+{% video %}https://www.youtube.com/watch?v=PgJfz5dRls8{% endvideo %}
 
 *   **Función expresiva (o emotiva):** manifiesta emociones, sentimientos, sensaciones. Como ya sabemos, siempre va acompañada del lenguaje no verbal y éste será el encargado de dar las claves sobre su veracidad al receptor. Vive las emociones que quieras hacer vivir a tu audiencia. Pon las neuronas espejo de tu audiencia a trabajar.
 
-https://www.youtube.com/watch?v=XOiP2KJQXgo
+{% video %}https://www.youtube.com/watch?v=XOiP2KJQXgo{% endvideo %}
 
-https://www.youtube.com/watch?v=Ld5ERZKk-MQ
+{% video %}https://www.youtube.com/watch?v=Ld5ERZKk-MQ{% endvideo %}
 
 *   **Función apelativa:** consiste en llamar la atención del otro e influir en su opinión o generar un cambio. En nuestro caso, solicitar participación durante el acto comunicativo, llamar la atención,  obtener una actitud de respeto e interés hacia nuestro mensaje y una disposición del público a “llevarse” nuestro mensaje en forma de idea, de información aplicable en el aula, de perspectiva...
 

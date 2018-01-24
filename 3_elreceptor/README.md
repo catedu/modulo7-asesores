@@ -14,4 +14,4 @@ G. Ballenato Prieto (2006) refiriéndose al emisor dice “él es quien debe pro
 
 Veamos cómo nos transmite esta misma idea G. Alvárez en su conferencia TEDx Gran Vía “Del miedo escénico al pánico escénico” (del minuto 11:40 al 12:30) a la vez que nos introduce en una metáfora recurrente: la ponencia como viaje.
 
-https://www.youtube.com/watch?v=OOUVOhHw7Ew&amp;t=752s
+{% video %}https://www.youtube.com/watch?v=OOUVOhHw7Ew&amp;t=752s{% endvideo %}
