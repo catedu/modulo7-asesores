@@ -1,8 +1,8 @@
 # 5\. MEMORIA {#5-memoria}
 
-¡ENSAYA!
+## ¡ENSAYA!
 
-![](images/image13.jpg)
+![](/images/image13.jpg)
 
 Esta fase la vamos a identificar con el necesario ensayo.
 
@@ -10,18 +10,18 @@ Ensaya, ensaya y ensaya esta sí que es una norma en la que todos los autores se
 
 Tanto si has optado por escribir el texto palabra por palabra como si tienes un guión debes trabajarlo de tal manera que llegues a conseguir con tus ensayos dos objetivos:
 
-*   controlar y ajustar el tiempo hasta que dure menos del tiempo asignado.
-*   apropiarte del mensaje de tal manera que las palabras del texto estén automatizadas para así prestar atención al momento comunicativo, al significado de las palabras, a la transmisión de emociones y no al texto.
+*   Controlar y ajustar el tiempo hasta que dure menos del tiempo asignado.
+*   Apropiarte del mensaje de tal manera que las palabras del texto estén automatizadas para así prestar atención al momento comunicativo, al significado de las palabras, a la transmisión de emociones y no al texto.
 
-Mnomise, en la mitología griega, es la personificación de la memoria y madre de las musas.  Algo tan místico no lo puedes delegar en un powerpoint o unas tarjetas de cartón. La memorización es el trabajo que debes realizar por adelantado antes del momento vivo de la comunicación. Ganarás desenvoltura, seguridad y flexibilidad.
+Mnemósine, en la mitología griega, es la personificación de la memoria y madre de las musas.  Algo tan místico no lo puedes delegar en un powerpoint o unas tarjetas de cartón. La memorización es el trabajo que debes realizar por adelantado antes del momento vivo de la comunicación. Ganarás desenvoltura, seguridad y flexibilidad.
 
 No se trata de aprender una cadena de palabras (si olvidas una, el tren se para) sino de poder recrear el texto en tu mente. Lo que se buscamos en esta etapa es el trabajo de:
 
-- las palabras clave
+- Las palabras clave
 
-- la estructura y
+- La estructura y
 
-- las transiciones
+- Las transiciones
 
 Estos elementos actuarán como trampolines para  que el resto del texto (también ensayado) fluya.
 
@@ -29,7 +29,7 @@ Si lo haces así, tu powerpoint podrá ser fresco y dinámico (no incluyendo en 
 
 Chris Anderson (2016) dice  “las mejores charlas memorizadas llegan a saberse tan bien que los conferenciantes pueden concentrarse en su pasión por las ideas que contienen. Las mejores charlas improvisadas se han practicado un número suficiente de veces, hasta el punto de que quienes la pronuncian (...) encuentran que muchas de las frases más potentes ya están en su mente”.  Efectivamente, tanto si partes de un guión como de un texto, el proceso de ensayo y memorización llevará al mismo lugar: un texto perfectamente interiorizado.
 
-Muchas personas tienen miedo a que su charla suene a ”ensayada”. Si tu charla suena a “ensayada”, es que has ensayado poco. Hay que practicar hasta que el mensaje fluye de manera natural y libera la mente para poder dedicarla a los aspectos no verbales (conexión, escucha activa, lenguaje no verbal…).
+Muchas personas tienen miedo a que su charla suene a ”ensayada”. **Si tu charla suena a “ensayada”, es que has ensayado poco**. Hay que practicar hasta que el mensaje fluye de manera natural y libera la mente para poder dedicarla a los aspectos no verbales (conexión, escucha activa, lenguaje no verbal…).
 
 Conviene ensayar solo (grábate en vídeo si es posible y si no lo es mírate en el espejo),  pero también ante una audiencia de confianza (mejor si comparte rasgos con los futuros asistentes) a la que poder interrogar sobre la estructura, los contenidos, los ejemplos, los aspectos no verbales y la emoción transmitida.
 
@@ -37,4 +37,4 @@ Dejamos aquí un vídeo en el que te invitamos a que admires el poder que da la 
 
 (No es necesario que lo veas entero para apreciar el trabajo de la memoria)
 
-[https://www.youtube.com/watch?v=3mp0bf1RRV4](https://www.google.com/url?q=https://www.youtube.com/watch?v%3D3mp0bf1RRV4&sa=D&ust=1516789738038000&usg=AFQjCNEbsR-pS057ybO0hrPfsx_PKAV_eQ)
+https://www.youtube.com/watch?v=3mp0bf1RRV4

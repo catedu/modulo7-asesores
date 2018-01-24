@@ -1,12 +1,12 @@
 # 6\. ACTIO {#6-actio}
 
-Dar vida a las palabras
+##Dar vida a las palabras
 
-El  consejo hasta ahora era “sé tu mismo”, pero llegados a este punto el consejo evoluciona a “interpreta la mejor versión de ti mismo”. Es necesario construir puentes entre la oratoria y la actuación. No debemos olvidar que la oratoria es una actividad audiovisual: no solo cuentan las palabras sino también la persona que las emite (con su cuerpo y con su voz) y el escenario donde tiene lugar la comunicación.
+El  **consejo** hasta ahora era “sé tu mismo”, pero llegados a este punto el consejo evoluciona a **“interpreta la mejor versión de ti mismo”**. Es necesario construir puentes entre la oratoria y la actuación. No debemos olvidar que la oratoria es una actividad audiovisual: no solo cuentan las palabras sino también la persona que las emite (con su cuerpo y con su voz) y el escenario donde tiene lugar la comunicación.
 
 Para vivir la experiencia de una conferencia sin conferenciante te recomendamos la siguiente charla (del minuto 7 al minuto 10)
 
-[https://vimeo.com/211258545](https://www.google.com/url?q=https://vimeo.com/211258545&sa=D&ust=1516789738040000&usg=AFQjCNEDhzO3jGrrvdqKeQF_RF43I8ZOwQ)
+https://vimeo.com/211258545
 
 Inquietante ¿no te parece?
 
