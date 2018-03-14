@@ -39,7 +39,7 @@ Es una parte obligada y que viene condicionada en cuanto a su duración y conten
 
 En esta fase se produce la conexión humana, es el momento en el que ethos debe salir, ir donde está el público y ganarlo a través de la credibilidad, la empatía y la autenticidad. Es también el momento de hacer explícitas las cuestiones a las que se va a dar respuesta, delimitar el tema, deshacer prejuicios. A través de la introducción preparamos el ánimo y la comprensión del auditorio para las fases siguientes.
 
-Os invitamos  a que analicéis la fase inicial de cuatro conferenciantes:
+Os invitamos  a que analicéis la fase inicial de cinco conferenciantes:
 
 María Acaso (1h:03min - 1h:06min) y 
 
