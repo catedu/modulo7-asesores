@@ -10,7 +10,7 @@ Como todo arte, el éxito no depende de una aplicación estricta del conocimient
 
 Está claro que a comunicarnos eficazmente no aprenderemos leyendo los contenidos de este curso (al igual que a nadar no se aprende leyendo un manual). Tampoco aprenderemos practicando sin más: imagina que tu charla no ha conseguido el efecto que tenías previsto. Puedes pensar que a la siguiente saldrá mejor, pero eso sería dejarlo al azar. Para que a la próxima salga mejor necesitas: criterios, referentes, datos para la reflexión, sentido crítico y, muy importante, feedback sincero.
 
-El objetivo principal del tiempo que vas a dedicar a este módulo es **obtener claves para la reflexión y el autoconocimiento** que guiará, si eres una persona dispuesta, tu mejora en el arte de la oratoria y la comunicación eficaz.
+El objetivo principal del tiempo que vas a dedicar a este módulo es **obtener claves para la reflexión y el autoconocimiento** que guiarán, si eres una persona dispuesta, tu mejora en el arte de la oratoria y la comunicación eficaz.
 
 Acompañaremos los contenidos con charlas disponibles en la red que te servirán para que vayas configurando una idea de cómo sería el “comunicador perfecto”... ese que ya te adelantamos, no existe. Nadie es perfecto.
 

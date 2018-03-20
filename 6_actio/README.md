@@ -9,7 +9,7 @@ Para vivir la experiencia de una conferencia sin conferenciante te recomendamos 
 <iframe src="https://player.vimeo.com/video/211258545?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 <p><a href="https://vimeo.com/211258545">El poder de la mirada y de la imitaci&oacute;n en el aprendizaje integral</a> from <a href="https://vimeo.com/ibercajaaulaenred">Ibercaja Aula en Red</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
-Inquietante ¿no te parece?
+Inquietante ¿no te parece?.
 
 Antes de continuar conviene matizar un mito muy extendido consistente en relegar la importancia de lo verbal a un 7% del total de la información percibida por el oyente frente a un 55% del lenguaje corporal y un 38% a aspectos paraverbales. Si esto fuera así, parece que todo el esfuerzo realizado en las etapas anteriores carece de sentido. Afortunadamente, estos datos varían cuando el acto comunicativo tienen una función diferente a la transmisión de emociones y sentimientos. El error tiene origen en la generalización de los estudios realizados por [Albert Mehrabian](https://www.google.com/url?q=https://en.wikipedia.org/wiki/Albert_Mehrabian&sa=D&ust=1516789738040000&usg=AFQjCNGdOAYvcKxZ80bbqlw02_Baovd1Yg) que exclusivamente estudian la relación entre la información verbal y no verbal en comunicaciones de tipo emocional y sentimental.
 
