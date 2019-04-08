@@ -1,7 +1,7 @@
 # 1 INTRODUCCIÓN {#1-introducci-n}
 
 ¿Empiezo el discurso con una pregunta? ¿Con una anécdota personal? ¿Debo evitar dar la espalda al público? ¿Puedo llevar unas notas por si me quedo en blanco? ¿En folio o en tarjeta? ¿Es imprescindible sonreir? ¿Y mostrar las palmas de las manos para generar confianza? ...
-
+{%oyu%}
 Las respuestas a estas preguntas  no la vas a encontrar en este módulo. Tampoco las vas a encontrar en ningún manual de oratoria.
 
 La [oratoria es definida por la RAE](https://www.google.com/url?q=http://dle.rae.es/?id%3DR8qgr7H&sa=D&ust=1516789737965000&usg=AFQjCNHmhnubL_sPro3UZtZhNfoGsLjaVA) como el **“arte de hablar con elocuencia”**.  Se trata de una **destreza cultural que podemos perfeccionar**. Michel Suñer (2008) en su libro Cómo enamorar hablando en público cita algunos aspectos que nos ayudarán a transformar las aptitudes (poder potencial) en capacidades para la oratoria. Destacamos aquí: entusiasmo, confianza (aún sin sentirla), naturalidad, afán de superación, ejercitación y  aprendizaje de técnicas.
