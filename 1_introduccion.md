@@ -4,6 +4,8 @@
 
 Las respuestas a estas preguntas  no la vas a encontrar en este módulo. Tampoco las vas a encontrar en ningún manual de oratoria.
 
+Youtube....
+
 La [oratoria es definida por la RAE](https://www.google.com/url?q=http://dle.rae.es/?id%3DR8qgr7H&sa=D&ust=1516789737965000&usg=AFQjCNHmhnubL_sPro3UZtZhNfoGsLjaVA) como el **“arte de hablar con elocuencia”**.  Se trata de una **destreza cultural que podemos perfeccionar**. Michel Suñer (2008) en su libro Cómo enamorar hablando en público cita algunos aspectos que nos ayudarán a transformar las aptitudes (poder potencial) en capacidades para la oratoria. Destacamos aquí: entusiasmo, confianza (aún sin sentirla), naturalidad, afán de superación, ejercitación y  aprendizaje de técnicas.
 
 Como todo arte, el éxito no depende de una aplicación estricta del conocimiento teórico. Guillermo Ballenato Prieto (2006) dice “seremos mejor comunicadores en tanto seamos capaces de movernos con flexibilidad en los diferentes intercambios comunicacionales y sepamos conjugar la aplicación de las estrategias y el cumplimiento de determinados aspectos formales con la autenticidad, la naturalidad y el propio estilo personal”. **En la comunicación humana no hay normas ni estrategias rigurosas que aseguren la eficacia y el éxito, solo consejos y un plan para mejorar a través de la práctica**.
