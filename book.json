@@ -1,1 +1,23 @@
-{"plugins": ["video", "youtube", "accordion", "edit-link", "githubcontributors"], "pluginsConfig": {"edit-link": {"base": "https://github.com/catedu/modulo7-asesores/edit/master", "label": "Edita esta página"}, "githubcontributors": {"githubOwner": "catedu", "githubRepository": "modulo7-asesores"}}}
+{
+  "plugins": [
+    "video",
+    "youtube",
+    "accordion",
+    "edit-link",
+    "githubcontributors",
+    "ga"
+  ],
+  "pluginsConfig": {
+    "edit-link": {
+      "base": "https://github.com/catedu/modulo7-asesores/edit/master",
+      "label": "Edita esta página"
+    },
+    "githubcontributors": {
+      "githubOwner": "catedu",
+      "githubRepository": "modulo7-asesores"
+    },
+    "ga": {
+      "token": "UA-135691041-2"
+    }
+  }
+}
