@@ -22,7 +22,7 @@ C. Anderson (2016) en su libro Charlas Ted utiliza la charla de F. Gilbert “La
 
 *   **Función expresiva (o emotiva):** manifiesta emociones, sentimientos, sensaciones. Como ya sabemos, siempre va acompañada del lenguaje no verbal y éste será el encargado de dar las claves sobre su veracidad al receptor. Vive las emociones que quieras hacer vivir a tu audiencia. Pon las neuronas espejo de tu audiencia a trabajar.
 
-{% youtube %}https://www.youtube.com/watch?v=XOiP2KJQXgo{% endyoutube %}
+https://www.rtve.es/play/videos/redes/redes-mirada-elsa/1676633/
 
 {% youtube %}https://www.youtube.com/watch?v=Ld5ERZKk-MQ{% endyoutube %}
 
